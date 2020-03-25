@@ -1,12 +1,14 @@
-# Php MySql Docker
+# My First Calculator
 
-Template for a PHP and MySQL stack. This is made for competition purposes only. A `/mysql/init.sql` is provided to startup the database with data. The data is wiped once the instance is closed.
+This problem is part of the `Intro to Hacking Workshop`. View the [Bug Bounty Guide](https://github.com/hackmtlca/bug-bounty-guide) for more information about the score system.
 
-## Required Changes
+## Context
 
-- In `docker-compose.yml`, replace all the `template` to the name of your app. Replace the `root` database password to your own password.
-- In `/mysql/init.sql`, replace the `template` database to your database.
-- In `/src/index.php`, replace the `root` password to the database password.
+Hey I'm John Doe. I'm the biggest calculator nerd ever. I want to make the best calculator apps. I made so many calculators in so many languages. This said, the `SQL Calculator` and `PHP Calculator` seem to be the biggest issues. I got my database dumped and my secret file stolen. Can you help me out?
+
+## Special Offer
+
+We are ready to offer a significant amount of points for someone that can get a full Linux interactive shell with the server. Take it as a challenge!
 
 ## Running the App
 
